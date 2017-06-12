@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/dannyboy/appName/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginManager.m \
+  /Users/dannyboy/appName/platforms/ios/Pods/Target\ Support\ Files/Weexplugin/Weexplugin-prefix.pch \
+  /Users/dannyboy/appName/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginManager.h \
+  /Users/dannyboy/appName/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginLoader.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WeexSDK.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXValidateProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKInstance.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXComponent.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXLayoutDefine.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/Layout.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXType.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXJSExceptionInfo.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXUtility.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXDefine.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXLog.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXURLRewriteProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceRequest.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXScrollerProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXScrollerComponent.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKManager.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBridgeManager.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKError.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKEngine.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXRootViewController.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceResponse.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceRequestHandler.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXNetworkProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXModuleProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXNavigationProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXMonitor.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXModalUIModule.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXListComponent.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXJSExceptionProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXImgLoaderProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXEventModuleProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXDebugTool.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXConvert.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXComponentManager.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBridgeProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBaseViewController.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAppMonitorProtocol.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAppConfiguration.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAComponent.h \
+  /Users/dannyboy/appName/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/NSObject+WXSwizzle.h
